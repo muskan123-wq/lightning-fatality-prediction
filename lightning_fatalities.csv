@@ -1,0 +1,73 @@
+state,year,num_deaths
+andhra pradesh,2019,109
+andhra pradesh,2020,93
+arunachal pradesh,2019,0
+arunachal pradesh,2020,0
+assam,2019,28
+assam,2020,14
+bihar,2019,400
+bihar,2020,436
+chhattisgarh,2019,212
+chhattisgarh,2020,246
+goa,2019,2
+goa,2020,0
+gujarat,2019,64
+gujarat,2020,78
+haryana,2019,11
+haryana,2020,3
+himachal pradesh,2019,1
+himachal pradesh,2020,5
+jharkhand,2019,334
+jharkhand,2020,336
+karnataka,2019,99
+karnataka,2020,75
+kerala,2019,15
+kerala,2020,8
+madhya pradesh,2019,400
+madhya pradesh,2020,429
+maharashtra,2019,189
+maharashtra,2020,182
+manipur,2019,0
+manipur,2020,0
+meghalaya,2019,7
+meghalaya,2020,8
+mizoram,2019,1
+mizoram,2020,0
+nagaland,2019,0
+nagaland,2020,1
+odisha,2019,271
+odisha,2020,275
+punjab,2019,7
+punjab,2020,8
+rajasthan,2019,88
+rajasthan,2020,48
+sikkim,2019,0
+sikkim,2020,0
+tamil nadu,2019,57
+tamil nadu,2020,64
+telangana,2019,96
+telangana,2020,64
+tripura,2019,10
+tripura,2020,5
+uttar pradesh,2019,321
+uttar pradesh,2020,304
+uttarakhand,2019,2
+uttarakhand,2020,10
+west bengal,2019,147
+west bengal,2020,170
+a & n islands,2019,1
+a & n islands,2020,0
+chandigarh,2019,2
+chandigarh,2020,0
+d&n haveli and daman&diu,2019,1
+d&n haveli and daman&diu,2020,0
+delhi ut,2019,0
+delhi ut,2020,0
+jammu & kashmir,2019,1
+jammu & kashmir,2020,0
+ladakh,2019,na
+ladakh,2020,0
+lakshadweep,2019,0
+lakshadweep,2020,0
+puducherry,2019,5
+puducherry,2020,0
