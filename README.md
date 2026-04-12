@@ -85,7 +85,7 @@ The project includes the following key visualizations:
 * **Decision Tree Regressor** (non-linear relationships)
 * **K-Means Clustering** (pattern discovery)
 
-### 🔍 Key Insights
+### Key Insights
 
 * Lightning intensity shows a positive relationship with fatalities
 * Poverty rate significantly increases vulnerability
@@ -144,7 +144,7 @@ python scripts/app.py
 
 ---
 
-## 🔮 Future Work
+## Future Work
 
 * Extend dataset to multiple years
 * Incorporate real-time lightning data
