@@ -49,7 +49,6 @@ datawarehouse/
 │   ├── analysis.py       
 │   ├── analysis3.py
 |   ├── analysis2.py
-|   ├── git1.py
 |   ├── app.py  
 │
 ├── outputs/
