@@ -47,7 +47,10 @@ datawarehouse/
 │
 ├── scripts/
 │   ├── analysis.py       
-│   ├── app.py             
+│   ├── analysis3.py
+|   ├── analysis2.py
+|   ├── git1.py
+|   ├── app.py  
 │
 ├── outputs/
 │   ├── intensity_vs_fatalities.png
@@ -156,7 +159,5 @@ python scripts/app.py
 ## Author
 
 **Muskan Kumari**
-IISER Thiruvananthapuram
-School of Data Science
 
 ---
